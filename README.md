@@ -28,13 +28,3 @@ I am part of a development group at **Biteye Group**, where I am responsible for
 My Master 2 graduation project. This is an **AI-powered website** designed to guide anyone through the composting process, using intelligent algorithms to optimize waste decomposition and environmental impact.
 
 &nbsp;
-
-## 🧰 My Toolbox
-
-### 💻 Software & Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
-
-### 🤖 AI & Specialized Tools
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/> &nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-
----
