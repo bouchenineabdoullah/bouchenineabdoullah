@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Bouchenine Abdoullah
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/bouchenineabdoullah/image/main/header.png" alt="Bouchenine Abdoullah - Vibe Engineer" width="100%">
+  <img src="https://raw.githubusercontent.com/bouchenineabdoullah/image/main/readme%20github.jpg" alt="Bouchenine Abdoullah - Vibe Engineer & AI Developer" width="100%">
 </div>
 
 ### Vibe Engineer | AI Enthusiast | Agronomist turned Developer
