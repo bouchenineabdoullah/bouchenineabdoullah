@@ -1,5 +1,9 @@
 # 👋 Hey there, I'm Bouchenine Abdoullah
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bouchenineabdoullah/image/main/header.png" alt="Bouchenine Abdoullah - Vibe Engineer" width="100%">
+</div>
+
 ### Vibe Engineer | AI Enthusiast | Agronomist turned Developer
 
 I'm a developer who lives at the intersection of clean code and great energy. With a **Master 2 in Agronomy**, I bridge the gap between environmental science and cutting-edge technology, building AI solutions that are both smart and sustainable.
